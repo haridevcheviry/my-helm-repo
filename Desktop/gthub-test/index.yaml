@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  UPF:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-03-03T15:11:12.423584-08:00"
+    description: A UPF Helm chart for Kubernetes
+    digest: d69115c6226455a8165d93d1e33af9c43c8536361bd5dda829279dde2b13d84c
+    name: UPF
+    urls:
+    - https://github.com/haridevcheviry/upf/UPF-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-03-03T15:11:12.422368-08:00"
